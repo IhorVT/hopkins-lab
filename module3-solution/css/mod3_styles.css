@@ -1,0 +1,21 @@
+.navbar, .navbar-default, nav{
+  background-color: #999999;
+}
+
+.navbar-header button{
+  background-color: #fff;
+}
+
+.navbar .navbar-header a, #food-categories > ul a:link, #food-categories > ul a:visited {
+  color:floralwhite;
+}
+
+#food-categories > ul a:hover {
+  background-color: #fff;
+  color: black;
+}
+
+.row .well{
+  background-color: #999999;
+  color:floralwhite;
+}
